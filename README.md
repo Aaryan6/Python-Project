@@ -1,3 +1,2 @@
-# Python-Project
-Here i add python projects
-this is my first file
+# Tic Tac Toe
+I make my first game tic tac toe
